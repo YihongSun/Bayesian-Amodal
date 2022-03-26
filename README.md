@@ -52,10 +52,7 @@ python3 run_experiment.py
 
 ## Qualitative Results
 
-<p float="left">
-  <img src="misc/qualitative1.jpg" width="503" />
-  <img src="misc/qualitative2.jpg" width="503" /> 
-</p>
+<img src='misc/qualitative.jpg'/>
 
 
 ## Citation
