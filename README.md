@@ -1,12 +1,11 @@
 # Amodal Segmentation through Out-of-Task and Out-of-Distribution Generalization with a Bayesian Model
-[Yihong Sun](https://yihongsun.github.io), [Adam Kortylewski](http://adamkortylewski.com), [Alan Yuille](https://www.cs.jhu.edu/~ayuille/). _CVPR 2022_
+### [Paper](https://arxiv.org/pdf/2010.13175) | [arXiv](https://arxiv.org/abs/2010.13175)
 
-[[PDF](https://arxiv.org/abs/2010.13175)] &nbsp; 
+Official PyTorch implementation for the paper: "Amodal Segmentation through Out-of-Task and Out-of-Distribution Generalization with a Bayesian Model"
 
-Official PyTorch code for the paper: *Amodal Segmentation through Out-of-Task and Out-of-Distribution Generalization with a Bayesian Model* 
+<a href="#license"><img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-blue.svg"/></a>  
 
 <img src="misc/teaser.jpg" width="570" />
-
 
 ## Quick Start
 
