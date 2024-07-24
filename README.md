@@ -1,7 +1,7 @@
 # Amodal Segmentation through Out-of-Task and Out-of-Distribution Generalization with a Bayesian Model
 ### [Paper](https://arxiv.org/pdf/2010.13175) | [arXiv](https://arxiv.org/abs/2010.13175)
 
-Official PyTorch implementation for the paper: "Amodal Segmentation through Out-of-Task and Out-of-Distribution Generalization with a Bayesian Model"
+Official PyTorch implementation for the CVPR 2022 paper: "Amodal Segmentation through Out-of-Task and Out-of-Distribution Generalization with a Bayesian Model"
 
 <a href="#license"><img alt="License: MIT" src="https://img.shields.io/badge/license-MIT-blue.svg"/></a>  
 
